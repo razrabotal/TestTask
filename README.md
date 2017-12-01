@@ -1,6 +1,6 @@
 # Test Task
 
-[Live on CodePen](https://codepen.io/razrabotal/pen/vWQVVb)
+[Live demo on CodePen](https://codepen.io/razrabotal/pen/vWQVVb)
 
 ## Progress
 - [X] Webpack 2
