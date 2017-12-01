@@ -1,5 +1,7 @@
 # Test Task
 
+[Live on CodePen](https://codepen.io/razrabotal/pen/vWQVVb)
+
 ## Progress
 - [X] Webpack 2
 - [X] ESLint
