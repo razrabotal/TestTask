@@ -7,7 +7,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/razrabotal"
+    "url": "https://github.com/razrabotal/TestTask"
   },
   "scripts": {
     "dev": "babel-node build/server/development.js",
