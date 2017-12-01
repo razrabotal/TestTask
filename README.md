@@ -7,7 +7,7 @@
 - [X] Vue.js
 - [X] Hotreload
 - [X] SASS with Autoprefixer
-- [X] Momentum
+- [X] Moment
 
 ## Installation
 
